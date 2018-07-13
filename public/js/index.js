@@ -5,7 +5,7 @@ socket.on('connect', function () {
   // socket.emit('createMessage', {
   //   from: 'rahul',
   //   text: 'working'
-  // })
+  // }) 
   //socket.emit('createEmail', {
   //   to: 'rohan@abc.com',
   //   text: 'hi'
